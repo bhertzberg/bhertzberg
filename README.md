@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhertzberg
-- 👀 I’m interested in data science (and outer space)
-- 🌱 I’m currently learning statistics and physics
+- 👀 I’m interested in data science, renewable energies, and outer space
+- 🌱 UCSB Honors Grad: BS in Statistics and Data Science, Minor in Physics
 - 📫 How to reach me: hertzberg.benjamin@gmail.com
 
 <!---
